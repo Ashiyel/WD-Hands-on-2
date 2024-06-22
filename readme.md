@@ -6,21 +6,22 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+  <a href="https://app.daily.dev/ashiyel"><img src="https://api.daily.dev/devcards/v2/4oY6KBXmOnMAMIGrfsb8y.png?r=z6m&type=wide" width="652" alt="Angel Calderon's Dev Card"/></a>
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">WD - Hands on 2 </h3>
+  <p  align ="center"> Headers and Footers Display Website </p>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+This website showcases designs and animations for headers and footers. 
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=Ashiyel/WD--Seatwork-3)
 
 ---
 
@@ -61,22 +62,21 @@ Description of the project in details.
 
 Guiding Question:
 - What is the project
+   - The project consists of a Landing Page, with two nav buttons to the animations and designs section of Headers and Footers. 
 - Whats the purpose
-- What are key components
-- What technology used and how it is used
+   - The purpose of this project is to demonstrate different types of animations and designs when it comes to the Headers and Footers of a website.
+   - Multipage
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- MultiPage Website
+
 
 ### Technology
-<!-- TODO: List of Technology Used -->
+!-- TODO: List of Technology Used --
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules and Principles
 1. Always use ***WD-*** in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -107,8 +107,8 @@ WD-ProjectName
 ```
 
 ## Resources
-
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Collapsible/Dropdown Using Only HTML CSS, CSS Tutorial, Enhance Coding - SEO Friendly | Collapsable Button | https://www.youtube.com/watch?v=RvpYnUZRquw
+| | | |
